@@ -2,7 +2,7 @@
 
 ![Docker build and publish](https://img.shields.io/github/actions/workflow/status/LeoGillet/chap-docker/docker-image.yml?logo=github&label=Image%20Build%20%26%20Push) ![Docker pulls](https://img.shields.io/docker/pulls/leogillet/chap?logo=docker&logoColor=%23ffffff&label=Pulls) ![Docker Image Size](https://img.shields.io/docker/image-size/leogillet/chap?sort=date&arch=amd64&logo=docker&logoColor=%23ffffff&label=Image%20Size)
 
-### This repo contains the Dockerfile used for the building of the [CHAP](https://hub.docker.com/r/leogillet/chap) docker image.
+### This repo contains the Dockerfile used for the building of the [CHAP](https://www.channotation.org/) docker image.
 [**Visit the Dockerhub repository**](https://hub.docker.com/r/leogillet/chap)
 ### This docker image uses Debian buster/10 slim and contains GROMACS and CHAP installations.
 
